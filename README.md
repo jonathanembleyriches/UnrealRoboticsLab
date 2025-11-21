@@ -2,6 +2,7 @@
 
 The **Unreal Robotics Lab (URL)** is a **Unreal Engine Plugin** that provides a high-fidelity simulation environment for robotics research.
 
+See Arxiv [https://arxiv.org/abs/2504.14135](Link) for the paper.
 
 
 ---
